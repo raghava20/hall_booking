@@ -1,5 +1,7 @@
 # hall_booking
 
+Heroku url: https://hall-booking-backend-app.herokuapp.com/
+
 Method: post
 
 /create-room = For creating a room 
