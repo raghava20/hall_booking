@@ -27,8 +27,8 @@ bookingStatus: "" (it could be yes or no)
 
 Method: get
 
-/hallbooking/all-rooms = for getting all rooms with booked data (get)
+/hallbooking/all-rooms = for getting all rooms with booked data
 
 Method: get
 
-/hallbooking/all-customers - for getting all customers with booked data (get)
+/hallbooking/all-customers - for getting all customers with booked data 
